@@ -2,6 +2,7 @@ package com.keep.calm.enjoy.java.d.methods.calculator;
 
 public class Calculator {
     public static void main(String[] args) {
+        //double[] leftNumbers = {100.0d, 25.0d, 225.0d, 11.0d};
         double[] leftNumbers = {100.0d, 25.0d, 225.0d, 11.0d};
         double[] rightNumbers = {50.0d, 92.0d, 17.0d, 3.0d};
         char[] operatorCodes = {'d', 'a', 's', 'm'};
