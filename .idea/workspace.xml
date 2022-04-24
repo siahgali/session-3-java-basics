@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="46c8cad5-d739-47c8-b59f-73fc23744dca" name="Changes" comment="my first assignment for data type :D" />
+    <list default="true" id="46c8cad5-d739-47c8-b59f-73fc23744dca" name="Changes" comment="my first assignment for data type :D">
+      <change afterPath="$PROJECT_DIR$/src/com/keep/calm/enjoy/java/a/primitive/datattpe/assingment/simin/OperatorSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +49,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.OperatorSample">
     <configuration name="DatatypeSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.keep.calm.enjoy.java.a.primitive.datattpe.assingment.simin.DatatypeSample" />
       <module name="session-3-java-basics" />
@@ -60,8 +63,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OperatorSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.keep.calm.enjoy.java.a.primitive.datattpe.assingment.simin.OperatorSample" />
+      <module name="session-3-java-basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.keep.calm.enjoy.java.a.primitive.datattpe.assingment.simin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OperatorSample" />
         <item itemvalue="Application.DatatypeSample" />
       </list>
     </recent_temporary>
@@ -82,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650769176569</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="my first assignment for data type :D">
+      <created>1650769742035</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1650769742035</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -101,7 +125,7 @@
     <option name="LAST_COMMIT_MESSAGE" value="my first assignment for data type :D" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/session_3_java_basics$DatatypeSample.ic" NAME="DatatypeSample Coverage Results" MODIFIED="1650769213087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/session_3_java_basics$DatatypeSample.ic" NAME="DatatypeSample Coverage Results" MODIFIED="1650769704041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.keep.calm.enjoy.java.a.primitive.datattpe.assingment.simin.*</FILTER>
     </SUITE>
   </component>
