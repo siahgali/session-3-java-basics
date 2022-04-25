@@ -1,6 +1,6 @@
 package com.keep.calm.enjoy.java.b.conditional.and.block.statement.zahra.assignment;
 
-public class switchClass {
+public class SwitchClass {
     public static void main(String[] args) {
         int day = 4;
         switch (day) {
@@ -26,6 +26,6 @@ public class switchClass {
                 System.out.println("Sunday");
                 break;
         }
-// Outputs "Thursday" (day 4)
+
     }
 }
