@@ -9,11 +9,10 @@ public class ArrayClass {
 
         String[] itemStartWithB = new String[1];
         for (int i = 0; i < colors.length - 1; i++) {
-
             String item = colors[i];
             if (item.startsWith("b")) {
-
                 itemStartWithB[0] = item;
+                break;
             }
         }
 
