@@ -13,8 +13,9 @@ public class ArrayExercise {
         theVals1[1] = 20.0f;
         theVals1[2] = 15.0f;
         float sum1 = 0.0f;
-        for(int index = 0; index < theVals1.length; index++)
-            sum1 += theVals1[index];
+        for(int index = 0; index < theVals1.length; index = index +1) {
+            sum1 += theVals1[index]; // sum1 = sum1 + theVals1[index];
+        }
         System.out.println(sum1); // displays 45
 
         /*
@@ -28,8 +29,9 @@ public class ArrayExercise {
         theVals2[1] = 20.0f;
         theVals2[2] = 15.0f;
         float sum2 = 0.0f;
-        for(int index = 0; index < theVals2.length; index++)
+        for(int index = 0; index < theVals2.length; index++) {
             sum2 += theVals2[index];
+        }
         System.out.println(sum2); // displays 45
 
         /*
@@ -47,5 +49,10 @@ public class ArrayExercise {
             sum4 += currentVal2;
         System.out.println(sum4); // displays 45
 
+
+        float[] theVals3 = new float[3];
+        for (float element:theVals3) { // for(int index = 0; index < theVals2.length; index++)
+            
+        }
     }
 }

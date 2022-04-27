@@ -28,7 +28,8 @@ public class Calculator {
             }
         }
 
-        for(double currentResult : results)
+        for(double currentResult : results) {
             System.out.println(currentResult);
+        }
     }
 }
