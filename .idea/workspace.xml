@@ -4,8 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="46c8cad5-d739-47c8-b59f-73fc23744dca" name="Changes" comment="my first assignment for conditions in JAVA...">
-      <change afterPath="$PROJECT_DIR$/src/com/keep/calm/enjoy/java/b/conditional/and/block/statement/assignmentSimin/SwitchSample.java" afterDir="false" />
+    <list default="true" id="46c8cad5-d739-47c8-b59f-73fc23744dca" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/keep/calm/enjoy/java/a/primitive/datattpe/parnia/assignment/DataType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/keep/calm/enjoy/java/b/conditional/and/block/statement/parnia/assignmentb/Conditional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/keep/calm/enjoy/java/c/loop/and/array/parnia/assignmentc/GradeProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/keep/calm/enjoy/java/c/loop/and/array/parnia/assignmentc/LoopArrayEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/keep/calm/enjoy/java/parnia/assignment/Assignment.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +32,9 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/com/keep/calm/enjoy/java/a/primitive/datattpe/operator/precedence/Main.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -38,16 +46,10 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/yaser/OneDrive/Desktop",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0"
-  }
-}]]></component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
   <component name="RunManager" selected="Application.OperatorSample">
     <configuration name="DatatypeSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.keep.calm.enjoy.java.a.primitive.datattpe.assingment.simin.DatatypeSample" />
