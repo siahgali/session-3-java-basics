@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="46c8cad5-d739-47c8-b59f-73fc23744dca" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/keep/calm/enjoy/java/a/primitive/datattpe/parnia/assignment/DataType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/keep/calm/enjoy/java/b/conditional/and/block/statement/parnia/assignmentb/Conditional.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/keep/calm/enjoy/java/c/loop/and/array/parnia/assignmentc/GradeProgram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/keep/calm/enjoy/java/c/loop/and/array/parnia/assignmentc/LoopArrayEx.java" afterDir="false" />
+    <list default="true" id="46c8cad5-d739-47c8-b59f-73fc23744dca" name="Changes" comment="my first assignment for conditions in JAVA...">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/keep/calm/enjoy/java/parnia/assignment/Assignment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/keep/calm/enjoy/java/c/loop/and/array/parnia/assignmentc/GradeProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/keep/calm/enjoy/java/c/loop/and/array/parnia/assignmentc/GradeProgram.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650770941983</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="my first assignment for conditions in JAVA...">
+      <created>1651445341851</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1651445341851</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
