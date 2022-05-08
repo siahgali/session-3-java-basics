@@ -37,7 +37,7 @@ public class StringFormatting {
     private static void formatWithZeroPaddingAndLeftJustify() {
         int w = 5, x = 235, y = 481, z = 12;
 
-        String s1 = String.format("W:%d X:%d", w, x);
+        String s1 = String.format("W:%d ali X:%d", w, x);
         String s2 = String.format("Y:%d Z:%d", y, z);
 
         String s3 = String.format("W:%4d X:%4d", w, x);

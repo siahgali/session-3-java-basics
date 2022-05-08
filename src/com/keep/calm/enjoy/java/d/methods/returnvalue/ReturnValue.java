@@ -7,8 +7,9 @@ public class ReturnValue {
         System.out.println();
 
         double[] arrayResult = produceInterestHistory(100d, 0.05d, 10);
-        for(double sumForThisYear : arrayResult)
+        for(double sumForThisYear : arrayResult) {
             System.out.println(sumForThisYear);
+        }
     }
 
     static double calculateInterest(double amt, double rate, int years) {
