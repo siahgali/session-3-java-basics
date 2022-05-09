@@ -2,6 +2,8 @@ package com.keep.calm.enjoy.java.f.date.time;
 
 import java.time.Instant;
 import java.time.LocalDate;
+import java.time.ZoneId;
+import java.time.ZonedDateTime;
 import java.time.format.DateTimeFormatter;
 
 public class DateTimeExercise {
@@ -51,6 +53,9 @@ public class DateTimeExercise {
         DateTimeFormatter usDateFormat = DateTimeFormatter.ofPattern("MM-dd-yyyy");
         System.out.println("Today in US format: " + today.format(usDateFormat));
 
+        LocalDate yesterday = LocalDate.now().minusDays(1);
+        String yesterdayUs = yesterday.format(usDateFormat);
+
         System.out.println();
 
         String dateStringInUSFormat = "07-04-2022";
@@ -60,5 +65,12 @@ public class DateTimeExercise {
 
         System.out.println("**************************************");
         System.out.println();
+
+        Instant nowUtc = Instant.now();
+        ZoneId asiaSingapore = ZoneId.of("Asia/Singapore");
+        ZonedDateTime nowAsiaSingapore = ZonedDateTime.ofInstant(nowUtc, asiaSingapore);
+
+        System.out.println( nowAsiaSingapore.getHour() + ":"  + nowAsiaSingapore.getMinute());
+
     }
 }

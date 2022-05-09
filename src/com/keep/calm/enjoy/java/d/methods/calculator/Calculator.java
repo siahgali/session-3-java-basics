@@ -7,15 +7,25 @@ public class Calculator {
         char[] operatorCodes = {'d', 'a', 's', 'm'};
         double[] results = new double[operatorCodes.length];
         if (args.length == 0) {
-            for (int i = 0; i < operatorCodes.length; i++) {
-                results[i] = execute(operatorCodes[i], leftNumbers[i], rightNumbers[i]);
-            }
-            for (double currentResult : results)
-                System.out.println(currentResult);
-        } else if(args.length == 3)
+            applyAllOperatorsOnInitialValues(leftNumbers, rightNumbers, operatorCodes, results);
+            printResult(results);
+        } else if(args.length == 3) {
             handleCommandLine(args);
-        else
+        } else {
             System.out.println("Please provide an operation code and 2 numeric values");
+        }
+    }
+
+    private static void applyAllOperatorsOnInitialValues(double[] leftNumbers, double[] rightNumbers, char[] operatorCodes, double[] results) {
+        for (int i = 0; i < operatorCodes.length; i++) {
+            results[i] = execute(operatorCodes[i], leftNumbers[i], rightNumbers[i]);
+        }
+    }
+
+    private static void printResult(double[] results) {
+        for (double currentResult : results) {
+            System.out.println(currentResult);
+        }
     }
 
     private static void handleCommandLine(String[] args) {

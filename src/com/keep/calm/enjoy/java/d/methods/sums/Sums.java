@@ -9,14 +9,16 @@ public class Sums {
 
     static void showSum1(float x, float y, int count) {
         float sum = x + y;
-        for(int i = 0; i < count; i++)
+        for(int i = 0; i < count; i++) {
             System.out.println(sum);
+        }
     }
 
     static void showSum2(float x, float y, int count) {
         float sum = x + y;
-        for(int i = 0; i < count; i++)
+        for(int i = 0; i < count; i++) {
             System.out.println(sum);
+        }
         return;
     }
 
@@ -24,8 +26,9 @@ public class Sums {
         if (count < 1)
             return;
         float sum = x + y;
-        for(int i = 0; i < count; i++)
+        for(int i = 0; i < count; i++) {
             System.out.println(sum);
+        }
         return;
     }
 }
