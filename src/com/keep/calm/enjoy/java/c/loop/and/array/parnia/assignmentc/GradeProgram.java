@@ -4,7 +4,7 @@ public class GradeProgram {
     public static void main(String[] args) {
 
             Scanner scanner = new Scanner(System.in);
-            System.out.println("Enter Grade of students");
+            System.out.println("Enter Grade of student");
             float grade = scanner.nextFloat();
 
             if(grade > 20){

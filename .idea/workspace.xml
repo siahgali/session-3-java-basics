@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="46c8cad5-d739-47c8-b59f-73fc23744dca" name="Changes" comment="my first assignment for conditions in JAVA...">
+    <list default="true" id="46c8cad5-d739-47c8-b59f-73fc23744dca" name="Changes" comment="Second assignment Grade Program">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/keep/calm/enjoy/java/c/loop/and/array/parnia/assignmentc/GradeProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/keep/calm/enjoy/java/c/loop/and/array/parnia/assignmentc/GradeProgram.java" afterDir="false" />
     </list>
@@ -131,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651445341851</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Second assignment Grade Program">
+      <created>1651584055029</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1651584055029</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -150,7 +157,8 @@
     <MESSAGE value="my first assignment for operator in JAVA..." />
     <MESSAGE value="my first assignment for casting in JAVA..." />
     <MESSAGE value="my first assignment for conditions in JAVA..." />
-    <option name="LAST_COMMIT_MESSAGE" value="my first assignment for conditions in JAVA..." />
+    <MESSAGE value="Second assignment Grade Program" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second assignment Grade Program" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/session_3_java_basics$DatatypeSample.ic" NAME="DatatypeSample Coverage Results" MODIFIED="1650769704041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
