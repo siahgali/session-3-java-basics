@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="46c8cad5-d739-47c8-b59f-73fc23744dca" name="Changes" comment="my first assignment for conditions in JAVA...">
-      <change afterPath="$PROJECT_DIR$/src/com/keep/calm/enjoy/java/b/conditional/and/block/statement/assignmentSimin/SwitchSample.java" afterDir="false" />
+    <list default="true" id="74c59373-05f8-4a42-9e79-e421018f1a37" name="Changes" comment="Zahra assign 2 ( grade range )">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/keep/calm/enjoy/java/b/conditional/and/block/statement/zahra/assignment/second/SecondAssignment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/keep/calm/enjoy/java/b/conditional/and/block/statement/zahra/assignment/second/SecondAssignment.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,17 +39,11 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/yaser/OneDrive/Desktop",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0"
-  }
-}]]></component>
-  <component name="RunManager" selected="Application.OperatorSample">
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.SecondAssignment">
     <configuration name="DatatypeSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.keep.calm.enjoy.java.a.primitive.datattpe.assingment.simin.DatatypeSample" />
       <module name="session-3-java-basics" />
@@ -75,8 +70,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SecondAssignment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.keep.calm.enjoy.java.b.conditional.and.block.statement.zahra.assignment.second.SecondAssignment" />
+      <module name="session-3-java-basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.keep.calm.enjoy.java.b.conditional.and.block.statement.zahra.assignment.second.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SecondAssignment" />
         <item itemvalue="Application.OperatorSample" />
         <item itemvalue="Application.DatatypeSample" />
       </list>
@@ -85,7 +94,7 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="46c8cad5-d739-47c8-b59f-73fc23744dca" name="Changes" comment="" />
+      <changelist id="74c59373-05f8-4a42-9e79-e421018f1a37" name="Changes" comment="My Switch Case Class- updated" />
       <created>1650417801107</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -126,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650770941983</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Zahra assign 2 ( grade range )">
+      <created>1651369874937</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1651369874937</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -145,7 +161,8 @@
     <MESSAGE value="my first assignment for operator in JAVA..." />
     <MESSAGE value="my first assignment for casting in JAVA..." />
     <MESSAGE value="my first assignment for conditions in JAVA..." />
-    <option name="LAST_COMMIT_MESSAGE" value="my first assignment for conditions in JAVA..." />
+    <MESSAGE value="Zahra assign 2 ( grade range )" />
+    <option name="LAST_COMMIT_MESSAGE" value="Zahra assign 2 ( grade range )" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/session_3_java_basics$DatatypeSample.ic" NAME="DatatypeSample Coverage Results" MODIFIED="1650769704041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
