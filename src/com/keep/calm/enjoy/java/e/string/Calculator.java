@@ -104,7 +104,7 @@ public class Calculator {
     }
 
     static double valueFromWord(String word) {
-        String[] numberWords = {
+      /*  String[] numberWords = {
                 "zero", "one", "two", "three", "four",
                 "five", "six", "seven", "eight", "nine"
         };
@@ -114,7 +114,9 @@ public class Calculator {
                 value = index;
                 break;
             }
-        }
+        }*/
+
+        Integer value = Integer.parseInt(word);
         return value;
     }
 }
