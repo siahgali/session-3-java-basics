@@ -1,5 +1,8 @@
 package com.keep.calm.enjoy.java.b.conditional.and.block.statement.calculator.oop;
 
+import java.util.Locale;
+import java.util.Scanner;
+
 public class main {
     public static void main(String[] args) {
 //        CalculatorBase calculatorBase = new CalculatorBase(10, 40);
@@ -11,15 +14,13 @@ public class main {
 //        System.out.println(adder.getResult());
 
 
-        CalculatorBase[] calcList = {new Adder(10, 40), new Subtractor(10, 40), new Multiplier(10, 40), new Divider(10, 40)};
-        for (CalculatorBase calculator: calcList) {
-            execute(calculator);
-        }
+//        CalculatorBase[] calcList = {new Adder(10, 40), new Subtractor(10, 40), new Multiplier(10, 40), new Divider(10, 40)};
+//        for (CalculatorBase calculator: calcList) {
+//            execute(calculator);
+//        }
+// add 15 25
+        Helper helper = new Helper();
+        helper.executeInteractively();
 
-    }
-
-    private static void execute(CalculatorBase calculator) {
-        calculator.calculate();
-        System.out.println(calculator.getResult());
     }
 }
