@@ -5,6 +5,9 @@ public abstract class CalculatorBase {
     private double secondValue;
     private double result;
 
+    public CalculatorBase() {
+
+    }
     public CalculatorBase(double firstValue, double secondValue) {
         this.firstValue = firstValue;
         this.secondValue = secondValue;

@@ -19,8 +19,18 @@ public class main {
 //            execute(calculator);
 //        }
 // add 15 25
-        Helper helper = new Helper();
-        helper.executeInteractively();
 
+//   2022-06-09
+//        Helper helper = new Helper();
+//        helper.executeInteractively();
+
+        System.out.println("Enter an operation and two numbers:");
+        Scanner scanner = new Scanner(System.in);
+        String userInput = scanner.nextLine();
+        MathProcessing[] operators = new MathProcessing[] {
+                new Adder(), new PowerOf(), new Divider(), new Subtractor(), new Remain()
+        };
+        Helper helper = new Helper(operators);
+        helper.process(userInput);
     }
 }

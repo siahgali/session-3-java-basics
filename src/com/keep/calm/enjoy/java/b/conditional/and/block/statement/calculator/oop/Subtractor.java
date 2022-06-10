@@ -1,15 +1,14 @@
 package com.keep.calm.enjoy.java.b.conditional.and.block.statement.calculator.oop;
 
-public class Subtractor extends CalculatorBase{
+public class Subtractor implements MathProcessing{
 
-    public Subtractor(double firstValue, double secondValue) {
-        super(firstValue, secondValue);
+    @Override
+    public String getKeyWord() {
+        return "sub";
     }
 
     @Override
-    public void calculate() {
-        setResult(getFirstValue() - getSecondValue());
+    public double doCalculation(double leftValue, double rightValue) {
+        return leftValue - rightValue;
     }
-
-
 }
