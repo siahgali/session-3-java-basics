@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="74c59373-05f8-4a42-9e79-e421018f1a37" name="Changes" comment="Zahra assign 2 ( grade range )">
-      <change afterPath="$PROJECT_DIR$/src/com/keep/calm/enjoy/java/b/conditional/and/block/statement/zahra/assignment/CalculOOP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/keep/calm/enjoy/java/b/conditional/and/block/statement/zahra/assignment/second/Calcul.java" afterDir="false" />
+    <list default="true" id="15a06ea8-c2ce-4003-b1b4-25a804bb140c" name="Changes" comment="My switch case class">
+      <change afterPath="$PROJECT_DIR$/src/com/keep/calm/enjoy/java/b/conditional/and/block/statement/nader/assignment/switchClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/keep/calm/enjoy/java/e/string/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/keep/calm/enjoy/java/e/string/Calculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="feature/zahra-assign2" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -33,162 +28,29 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="282boIkhxHKOlHLsyk148DGHmXO" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="2AZUoueWofqkEUq7nTXYdaZ7487" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-  </component>
-  <component name="RunManager" selected="Application.CalculOOP">
-    <configuration name="CalculOOP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.keep.calm.enjoy.java.b.conditional.and.block.statement.zahra.assignment.CalculOOP" />
-      <module name="session-3-java-basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.keep.calm.enjoy.java.b.conditional.and.block.statement.zahra.assignment.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.keep.calm.enjoy.java.e.string.Calculator" />
-      <module name="session-3-java-basics" />
-      <option name="PROGRAM_PARAMETERS" value="interactive" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.keep.calm.enjoy.java.e.string.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OperatorSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.keep.calm.enjoy.java.a.primitive.datattpe.assingment.simin.OperatorSample" />
-      <module name="session-3-java-basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.keep.calm.enjoy.java.a.primitive.datattpe.assingment.simin.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SecondAssignment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.keep.calm.enjoy.java.b.conditional.and.block.statement.zahra.assignment.second.SecondAssignment" />
-      <module name="session-3-java-basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.keep.calm.enjoy.java.b.conditional.and.block.statement.zahra.assignment.second.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringFormatting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.keep.calm.enjoy.java.e.string.formatting.StringFormatting" />
-      <module name="session-3-java-basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.keep.calm.enjoy.java.e.string.formatting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="Application.Calculator" />
-      <item itemvalue="Application.OperatorSample" />
-      <item itemvalue="Application.SecondAssignment" />
-      <item itemvalue="Application.StringFormatting" />
-      <item itemvalue="Application.CalculOOP" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.CalculOOP" />
-        <item itemvalue="Application.Calculator" />
-        <item itemvalue="Application.StringFormatting" />
-        <item itemvalue="Application.SecondAssignment" />
-        <item itemvalue="Application.OperatorSample" />
-      </list>
-    </recent_temporary>
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="74c59373-05f8-4a42-9e79-e421018f1a37" name="Changes" comment="My Switch Case Class- updated" />
-      <created>1650417801107</created>
+      <changelist id="15a06ea8-c2ce-4003-b1b4-25a804bb140c" name="Changes" comment="" />
+      <created>1655216778466</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1650417801107</updated>
+      <updated>1655216778466</updated>
     </task>
-    <task id="LOCAL-00001" summary="my first assignment for data type :D">
-      <created>1650769176569</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1650769176569</updated>
-    </task>
-    <task id="LOCAL-00002" summary="my first assignment for data type :D">
-      <created>1650769742035</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1650769742035</updated>
-    </task>
-    <task id="LOCAL-00003" summary="my first assignment for operator in JAVA...">
-      <created>1650770243491</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1650770243491</updated>
-    </task>
-    <task id="LOCAL-00004" summary="my first assignment for casting in JAVA...">
-      <created>1650770483478</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1650770483478</updated>
-    </task>
-    <task id="LOCAL-00005" summary="my first assignment for conditions in JAVA...">
-      <created>1650770941983</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1650770941983</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Zahra assign 2 ( grade range )">
-      <created>1651369874937</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1651369874937</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Zahra assign 2 ( grade range )">
-      <created>1651877252198</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1651877252198</updated>
-    </task>
-    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -196,35 +58,14 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="Fauture/Zahra-Calculator-OOP" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="my first assignment for data type :D" />
-    <MESSAGE value="my first assignment for operator in JAVA..." />
-    <MESSAGE value="my first assignment for casting in JAVA..." />
-    <MESSAGE value="my first assignment for conditions in JAVA..." />
-    <MESSAGE value="Zahra assign 2 ( grade range )" />
-    <option name="LAST_COMMIT_MESSAGE" value="Zahra assign 2 ( grade range )" />
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/session_3_java_basics$DatatypeSample.ic" NAME="DatatypeSample Coverage Results" MODIFIED="1650769704041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>com.keep.calm.enjoy.java.a.primitive.datattpe.assingment.simin.*</FILTER>
-    </SUITE>
+    <MESSAGE value="My switch case class" />
+    <option name="LAST_COMMIT_MESSAGE" value="My switch case class" />
   </component>
 </project>
