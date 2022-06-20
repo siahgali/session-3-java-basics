@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15a06ea8-c2ce-4003-b1b4-25a804bb140c" name="Changes" comment="My switch case class">
-      <change afterPath="$PROJECT_DIR$/src/com/keep/calm/enjoy/java/b/conditional/and/block/statement/nader/assignment/switchClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/keep/calm/enjoy/java/b/conditional/and/block/statement/nader/assignment/second/SecondAssignment.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/session-3-java-basics/com/keep/calm/enjoy/java/b/conditional/and/block/statement/shapour/assignment/switch_class.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/session-3-java-basics/com/keep/calm/enjoy/java/b/conditional/and/block/statement/shapour/assignment/switch_class.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/keep/calm/enjoy/java/b/conditional/and/block/statement/nader/assignment/switchClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/keep/calm/enjoy/java/b/conditional/and/block/statement/nader/assignment/switchclass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,10 +22,17 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="develop" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="branchProtectionPatterns">
+      <list>
+        <option value="feature\/.*" />
+      </list>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -33,15 +42,64 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Git.Branch.Popup.ShowAllRemotes&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Application.SecondAssignment">
+    <configuration name="SecondAssignment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.keep.calm.enjoy.java.b.conditional.and.block.statement.nader.assignment.second.SecondAssignment" />
+      <module name="session-3-java-basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.keep.calm.enjoy.java.b.conditional.and.block.statement.nader.assignment.second.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.keep.calm.enjoy.java.b.conditional.and.block.statement.zahra.assignment.second.SecondAssignment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.keep.calm.enjoy.java.b.conditional.and.block.statement.zahra.assignment.second.SecondAssignment" />
+      <module name="session-3-java-basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.keep.calm.enjoy.java.b.conditional.and.block.statement.zahra.assignment.second.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="switchclass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.keep.calm.enjoy.java.b.conditional.and.block.statement.nader.assignment.switchclass" />
+      <module name="session-3-java-basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.keep.calm.enjoy.java.b.conditional.and.block.statement.nader.assignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SecondAssignment" />
+        <item itemvalue="Application.com.keep.calm.enjoy.java.b.conditional.and.block.statement.zahra.assignment.second.SecondAssignment" />
+        <item itemvalue="Application.switchclass" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -51,6 +109,14 @@
       <option name="presentableId" value="Default" />
       <updated>1655216778466</updated>
     </task>
+    <task id="LOCAL-00001" summary="My switch case class">
+      <created>1655225683254</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1655225683254</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -59,6 +125,26 @@
         <entry key="MAIN">
           <value>
             <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/feature/simin-b" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="develop" />
+                </option>
+              </RecentGroup>
+            </list>
           </value>
         </entry>
       </map>

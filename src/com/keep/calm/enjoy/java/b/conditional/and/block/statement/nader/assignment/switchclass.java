@@ -1,8 +1,10 @@
 package com.keep.calm.enjoy.java.b.conditional.and.block.statement.nader.assignment;
 
-public class switchClass {
+public class switchclass {
+
+
     public static void main(String[] args) {
-        int day = 4;
+        int day = 6;
         switch (day) {
             case 1 :
                 System.out.println("Monday");
@@ -25,7 +27,6 @@ public class switchClass {
             case 7:
                 System.out.println("Sunday");
                 break;
-
 
         }
 
